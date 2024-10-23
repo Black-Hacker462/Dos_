@@ -7,3 +7,8 @@ chmod +x *
 ./dos.sh
 
 ```
+<center><h1>Run</h1></center>
+````
+cd Dos_
+./dos.sh
+````
